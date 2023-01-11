@@ -29,5 +29,3 @@ window.onload = function() {
     submit();
 }
 
-//let fontSize = document.getElementById("capitalInput").style.fontSize;
-
